@@ -1,4 +1,4 @@
-![logo]([https://github.com/ayush2753/ayush2753/blob/main/3a4b5e6c9a4a040c48ea39732d663257.jpg](https://github.com/ayush2753/ayush2753/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png))
+![logo](https://github.com/ayush2753/ayush2753/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ayush Saxena</h1>
 <h3 align="center">Aspiring Java Full-Stack Developer.</h3>
 
