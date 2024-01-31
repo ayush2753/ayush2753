@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **REACT & Advance Java**
 
-- 💬 Ask me about **Java, Advance Java, Git, React**
+- 💬 Ask me about **Java, Html, CSS, JS, Advance Java, Git, React**
 
 - 📫 How to reach me **ayushsaxena5420@gmail.com**
 
