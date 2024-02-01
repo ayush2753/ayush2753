@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Saxena</h1>
 <h3 align="center">Aspiring Java Full-Stack Developer.</h3>
 
-<img align= "left" alt="coding" width="400" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
+<img class="text-center" align= "left" alt="coding" width="400" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush2753&label=Profile%20views&color=0e75b6&style=flat" alt="ayush2753" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush2753" alt="ayush2753" /></a> </p>
