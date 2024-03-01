@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="280" width="1500" src="https://github.com/ayush2753/ayush2753/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png"  />
+  <img height="280" width="1800" src="https://github.com/ayush2753/ayush2753/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png"  />
 </div>
 
 ###
@@ -80,9 +80,6 @@ Have ideas to build things and is interested in new technologies.</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/ayush-saxena-501b1a27a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="ayushsaxena5420@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   
 </div>
