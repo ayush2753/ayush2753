@@ -28,7 +28,7 @@ Have ideas to build things and is interested in new technologies.</p>
 <br clear="both">
 
 <div align="center">
-  <img height="206" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75"  />
+  <img height="206" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=1000&q=100"  />
 </div>
 
 ###
